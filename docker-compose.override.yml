@@ -1,0 +1,4 @@
+services:
+  scheduler:
+    volumes:
+      - C:/Users/hally/.dbt:/usr/local/airflow/.dbt:ro
